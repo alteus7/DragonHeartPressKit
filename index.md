@@ -17,13 +17,8 @@ May 6, 2015
 **Releases:**  
 [exampleproject][example_project]
 
-**Address:**  
-Line 1  
-Line 2  
-Line 3
-
 **Phone:**  
-+00 (1) 22 33 44 55
++82 (10) 4350 0750 (only korean)
 
 ## Description
 
