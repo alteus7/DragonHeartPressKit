@@ -66,4 +66,4 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 <!--- Projects  -->
 
-[English]: projects/DragonHeart_EN/
+[English]: projects/DragonHeart_KR/
