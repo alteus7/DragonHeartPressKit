@@ -34,12 +34,12 @@ June, 2015
 
 ## Images
 
-download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
+download all screenshots & photos as ** [.zip (63 KB)](../../assets/images/images.zip "Images zip") **
 
 [![image_01_name](../../assets/images/image_01.png)](../../assets/images/image_01.png)
 [![image_02_name](../../assets/images/image_02.png)](../../assets/images/image_02.png)
 [![image_03_name](../../assets/images/image_03.png)](../../assets/images/image_03.png)
-[![image_04_name](../../assets/images/image_04.png)](assets/images/image_04.png)
+[![image_04_name](../../assets/images/image_04.png)](../../assets/images/image_04.png)
 
 ## Logo & Icon
 
