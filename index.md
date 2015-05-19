@@ -13,7 +13,7 @@ iOS / Android
 June, 2015
 
 **Press / Business contact:**
-<mailto:alteus@gmail.com>
+<alteus@gmail.com>
 
 ## Description
 
