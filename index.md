@@ -23,7 +23,7 @@ June, 2015
 
 ## History
 
-넥슨, CCR등의 회사를 거쳐 
+넥슨, 네오위즈, CCR등의 회사를 거쳐 alteus soft로 독립하여 제작한 첫번째 게임입니다...
 
 ## Features
 
