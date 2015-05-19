@@ -3,8 +3,7 @@
 ## Factsheet
 
 **Developer:**  
-alteus soft
-from Korea, Republic of
+alteus soft\nfrom Korea, Republic of
 
 **Founding date:**  
 May 6, 2015
