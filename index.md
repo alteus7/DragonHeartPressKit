@@ -12,7 +12,7 @@ iOS / Android
 **Release:**  
 June, 2015
 
-**Press / Business contact:**  
+**Press / Business contact:**
 <mailto:alteus@gmail.com>
 
 ## Description
