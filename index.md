@@ -49,7 +49,7 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
 
 
-### Thank you!
+## Thank you!
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
