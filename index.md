@@ -27,18 +27,10 @@ June, 2015
 
 ## Features
 
-* 퍼즐게임.
-
-## Videos
-
-We have a trailer and this is it. [And this is what we called the link](https://www.youtube.com/watch?v=WB0yAm6iXEw "Gunhouse Trailer on Youtube")  
-
-<iframe src="//www.youtube.com/embed/WB0yAm6iXEw" frameborder="0" allowfullscreen></iframe>
-
-<br>
-
-This is some music from our games! [Yeah, you like it I think](http://www.youtube.com/watch?v=hxQAUADFCzw "Motohiro Kawashima live")
-<iframe src="//www.youtube.com/embed/hxQAUADFCzw" frameborder="0" allowfullscreen></iframe>
+* 새로운 규칙의 블록 퍼즐 게임
+* 캐릭터에 따라 게임의 플레이 방식이 달라진다.
+* 25종의 캐릭터 지원
+* 페이스북, 싱글 모드 지원
 
 ## Images
 
