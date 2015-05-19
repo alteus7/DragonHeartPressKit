@@ -3,7 +3,7 @@
 ## Factsheet
 
 **Developer:**  
-altesu soft
+alteus soft
 
 **Founding date:**  
 May 6, 2015
