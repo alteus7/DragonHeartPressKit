@@ -12,6 +12,10 @@ May 6, 2015
 **Press / Business contact:**  
 [alteus@gmail.com][contact]
 
+**Platform:**
+iOS / Android
+
+
 ## Description
 
 Stuff about the studio. Talk about yourselves in the third person!
