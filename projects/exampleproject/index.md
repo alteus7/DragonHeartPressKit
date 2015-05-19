@@ -1,48 +1,36 @@
-# ![Game Name](assets/images/header.png)
+# ![alteus soft](assets/images/header.png)
 
 ## Factsheet
 
 **Developer:**  
-Company Name
+alteus soft  
+Based in Korea, Republic of
 
-**Release Date:**  
-January 1, 20XX
+**Platform:**  
+iOS
+Android
 
-**Platforms:**  
-[Windows / Mac / Linux](http://link)  
-[PS4](http://link)  
-[Xbox One](http://link)  
-[PlayStation Vita](http://link)  
-[Nintendo DS](http://link)  
+**Release:**  
+June, 2015
 
-**Website:**  
-[companydomain.com/exampleproject](http://companydomain.com/exampleproject)
-
-**Regular Price:**  
-USD	$100  
-EU	€100
+**Press / Business contact:**
+[alteus@gmail.com][contact]
 
 ## Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+드래곤 하트는 같은 색의 블록을 모두 선택하면 없어지는 인디 퍼즐 게임입니다. 여기에 게임에 대한
+ 간략한 설명을 적습니다.
 
 ## History
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+넥슨, 네오위즈, CCR등의 회사를 거쳐 alteus soft로 독립하여 제작한 첫번째 게임입니다...
 
 ## Features
 
-* Cool things.
-* Cool things.
-* Cool things.
-* Cool things.
-* Cool things.
-
-## Videos
-
-Not a trailer, but here's some of the music! [Youtube](http://www.youtube.com/watch?v=hxQAUADFCzw "Motohiro Kawashima live")
-
-<iframe src="//www.youtube.com/embed/hxQAUADFCzw" frameborder="0" allowfullscreen></iframe>
+* 새로운 규칙의 블록 퍼즐 게임
+* 캐릭터에 따라 게임의 플레이 방식이 달라진다.
+* 25종의 캐릭터 지원
+* 페이스북, 싱글 모드 지원
 
 ## Images
 
@@ -60,71 +48,22 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
 
-## Awards & Recognition
 
-> * "Winner, XX awards." - *December 13, 2013*
-> * "Nominee, YY awards." - *December 13, 2013*
-
-## Selected Articles
-
-> * "Put a quote here, from someone who talked about your game."  
--- *Person Name, [Website](http://www.website.com/)*
-
-> * "More quotes. Make sure to quote people properly! No trimming!"  
--- *Person name, [Site](http://geocities.blog.com/)*
-
-## Additional Links
-
-**Company Link #1**  
-A link to something related can go [here](https://link)
-
-**Company Link #2**  
-Another link like this goes [here](https://link) if you want.
-
-## About Company
-
-**Company Link #1**  
-Link to your company, or some affiliate. Located [here](https://link)
-
-**Company Link #2**  
-Another of these. See [here](https://link)
-
-## Example Project Credits
-
-**Probably the founder's name goes here**  
-[Founder](https://link)
-
-**Another person's name**  
-[developer maybe](https://link)
-
-**Another person, show em if you've got em**  
-[artist, who knows](https://link)
-
-**A fourth person**  
-[music, sound?](https://link)
-
-## Contact
-
-**Inquiries**  
-[press-contact@company.com][contact]
-
-**Twitter**  
-[twitter.com/companyname][twitter]
-
-** Facebook**  
-[facebook.com/companyname][facebook]
-
-**Web**  
-[companydomain.com][homepage]
+## Thank you!
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
 [homepage]: http://companydomain.com "Company Name"
 
-[contact]: mailto:press-contact@company.com
+[contact]: mailto:alteus@gmail.com
 
 <!--- Social -->
 
 [twitter]: https://twitter.com/companyname
 [facebook]: https://facebook.com/companyname
+[skype]: callto:companyskypename
+
+<!--- Projects  -->
+
+[example_project]: projects/exampleproject/

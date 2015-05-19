@@ -1,13 +1,15 @@
 {
-  "title": "Example Project",
+  "title": "DragonHeart",
   "largeLinks": [
     {
-      "name": "CompanyName.com",
-      "link": "&#47;"
-    },
+      "name": "alteus soft",
+      "link": "&#47;DragonHeartPressKit&#47"
+    }
+  ],
+  "projectLinks": [
     {
-      "name": "Press Kit - Home",
-      "link": "..&#47;..&#47;"
+      "name": "DragonHeart",
+      "link": "&#47;DragonHeartPressKit&#47;"
     }
   ],
   "layout": {
@@ -20,7 +22,7 @@
       "features"
     ],
     "50%_Width": [
-      "credits",
+      "Thank you!",
       "contact"
     ]
   },
