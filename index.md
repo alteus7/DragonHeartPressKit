@@ -6,17 +6,14 @@
 alteus soft<br />
 Based in Korea, Republic of
 
-**Founding date:**  
-May 6, 2015
-
-**Press / Business contact:**  
-[alteus@gmail.com][contact]
-
 **Platform:**
 iOS / Android
 
 **Release:**
 June, 2015
+
+**Press / Business contact:**  
+[alteus@gmail.com][contact]
 
 
 ## Description
