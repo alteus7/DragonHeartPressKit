@@ -9,16 +9,26 @@ alteus soft
 May 6, 2015
 
 **Website:**  
-[dragonheart.parseapp.com][homepage]
+[companydomain.com][homepage]
 
 **Press / Business contact:**  
-[alteus@gmail.com][contact]
+[press-contact@company.com][contact]
+
+**Social:**  
+[twitter.com/companyname][twitter]  
+[facebook.com/companyname][facebook]  
+[Skype](callto:companyskypename)
 
 **Releases:**  
 [exampleproject][example_project]
 
+**Address:**  
+Line 1  
+Line 2  
+Line 3
+
 **Phone:**  
-+82 (10) 4350 0750 (only korean)
++00 (1) 22 33 44 55
 
 ## Description
 
