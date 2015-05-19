@@ -8,23 +8,8 @@ alteus soft
 **Founding date:**  
 May 6, 2015
 
-**Website:**  
-[companydomain.com][homepage]
-
 **Press / Business contact:**  
 [alteus@gmail.com][contact]
-
-
-**Releases:**  
-[DragonHeartPressKit][DragonHeart]
-
-**Address:**  
-Line 1  
-Line 2  
-Line 3
-
-**Phone:**  
-+00 (1) 22 33 44 55
 
 ## Description
 
