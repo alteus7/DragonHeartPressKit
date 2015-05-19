@@ -6,10 +6,10 @@
 alteus soft<br />
 Based in Korea, Republic of
 
-**Platform:**
+**Platform:**  
 iOS / Android
 
-**Release:**
+**Release:**  
 June, 2015
 
 **Press / Business contact:**  
