@@ -12,12 +12,8 @@ May 6, 2015
 [companydomain.com][homepage]
 
 **Press / Business contact:**  
-[press-contact@company.com][contact]
-
-**Social:**  
-[twitter.com/companyname][twitter]  
-[facebook.com/companyname][facebook]  
-[Skype](callto:companyskypename)
+[alteus@gmail.com][contact]
+[https://www.facebook.com/pages/DragonHeart/837645482980724][facebook]  
 
 **Releases:**  
 [exampleproject][example_project]
