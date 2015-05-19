@@ -14,7 +14,8 @@ June, 2015
 
 **Press / Business contact:**  
 [alteus@gmail.com][contact]
-
+<mailto:alteus@gmail.com>
+<user@example.com>
 
 ## Description
 
