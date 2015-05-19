@@ -57,7 +57,7 @@ Main Directing & programming.
 **Suho Kang**  
 Character graphics.
 
-**Another person, show em if you've got em**  
+**DongYeup Shin**  
 [artist, who knows](https://link)
 
 **A fourth person**  
