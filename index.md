@@ -55,7 +55,7 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 Main Directing & programming.
 
 **Suho Kang**  
-[developer maybe](https://link)
+Character graphics.
 
 **Another person, show em if you've got em**  
 [artist, who knows](https://link)
