@@ -7,7 +7,8 @@ alteus soft
 Based in Korea, Republic of
 
 **Platform:**  
-iOS / Android
+iOS
+Android
 
 **Release:**  
 June, 2015
