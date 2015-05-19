@@ -14,9 +14,6 @@ May 6, 2015
 **Press / Business contact:**  
 [alteus@gmail.com][contact]
 
-**Social:**  
-[https://www.facebook.com/pages/DragonHeart/837645482980724][facebook]  
-
 **Releases:**  
 [exampleproject][example_project]
 
