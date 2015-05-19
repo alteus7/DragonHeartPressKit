@@ -51,10 +51,10 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 ## Team & Repeating Collaborator
 
-**alteus**  
+**Ju Jinho**  
 Main Directing & programming.
 
-**Another person's name**  
+**Suho Kang**  
 [developer maybe](https://link)
 
 **Another person, show em if you've got em**  
