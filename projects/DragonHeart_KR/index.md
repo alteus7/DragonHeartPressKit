@@ -66,4 +66,4 @@ download logo files as ** [.zip (7 KB)](../../assets/images/logo.zip "Logo & Ico
 
 <!--- Projects  -->
 
-[English]: projects/DragonHeart_EN/
+[Korean]: projects/DragonHeart_KR/
