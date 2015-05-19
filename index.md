@@ -58,7 +58,7 @@ Main Directing & programming.
 Character graphics.
 
 **DongYeup Shin**  
-[artist, who knows](https://link)
+UI graphics
 
 **A fourth person**  
 [music, sound?](https://link)
