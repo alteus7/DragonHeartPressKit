@@ -3,7 +3,7 @@
 ## Factsheet
 
 **Developer:**  
-alteus soft<br />
+alteus soft  
 Based in Korea, Republic of
 
 **Platform:**  
