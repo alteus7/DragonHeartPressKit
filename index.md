@@ -12,7 +12,7 @@ May 6, 2015
 [companydomain.com][homepage]
 
 **Press / Business contact:**  
-[press-contact@company.com][contact]
+[alteus@gmail.com][contact]
 
 **Social:**  
 [twitter.com/companyname][twitter]  
