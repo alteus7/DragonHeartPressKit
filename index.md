@@ -14,13 +14,9 @@ May 6, 2015
 **Press / Business contact:**  
 [alteus@gmail.com][contact]
 
-**Social:**  
-[twitter.com/companyname][twitter]  
-[facebook.com/companyname][facebook]  
-[Skype](callto:companyskypename)
 
 **Releases:**  
-[exampleproject][example_project]
+[DragonHeartPressKit][example_project]
 
 **Address:**  
 Line 1  
