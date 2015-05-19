@@ -8,7 +8,13 @@
   ],
   "projectLinks": [
     {
-      "name": "DragonHeart",
+      "name": "English",
+      "link": "projects&#47;English&#47;"
+    }
+  ],
+  "projectLinks": [
+    {
+      "name": "Korean",
       "link": "&#47;DragonHeartPressKit&#47;"
     }
   ],
