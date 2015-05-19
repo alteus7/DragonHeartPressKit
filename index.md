@@ -4,7 +4,7 @@
 
 **Developer:**  
 alteus soft<br />
-from Korea, Republic of
+Based in Korea, Republic of
 
 **Founding date:**  
 May 6, 2015
