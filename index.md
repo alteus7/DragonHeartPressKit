@@ -1,4 +1,4 @@
-# ![Company Name](assets/images/header.png)
+# ![alteus soft](assets/images/header.png)
 
 ## Factsheet
 
