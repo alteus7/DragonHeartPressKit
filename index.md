@@ -82,7 +82,7 @@ Music and, sound.
 
 [homepage]: http://companydomain.com "Company Name"
 
-[contact]: mailto:press-contact@company.com
+[contact]: mailto:alteus@gmail.com
 
 <!--- Social -->
 
