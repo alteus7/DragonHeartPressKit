@@ -16,7 +16,7 @@ May 6, 2015
 
 
 **Releases:**  
-[&#47;DragonHeartPressKit&#47][DragonHeart]
+[DragonHeartPressKit][DragonHeart]
 
 **Address:**  
 Line 1  
