@@ -9,12 +9,12 @@
   "projectLinks": [
     {
       "name": "English",
-      "link": "projects&#47;DragonHeart_EN&#47;"
+      "link": "&#47;DragonHeartPressKit&#47;"
 
     },
     {
       "name": "Korean",
-      "link": "&#47;DragonHeartPressKit&#47;"
+      "link": "projects&#47;DragonHeart_EN&#47;"
     }
   ],
   "layout": {
