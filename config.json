@@ -10,13 +10,15 @@
     {
       "name": "English",
       "link": "projects&#47;English&#47;"
+
     }
-  ],
-  "projectLinks": [
     {
       "name": "Korean",
       "link": "&#47;DragonHeartPressKit&#47;"
-    }
+    }    
+  ],
+  "projectLinks": [
+
   ],
   "layout": {
     "40%_Width": [
