@@ -65,17 +65,9 @@ Music and, sound.
 
 ## Contact
 
-**Inquiries**  
-[press-contact@company.com][contact]
+**E-mail**  
+[alteus@gmail.com][contact]
 
-**Twitter**  
-[twitter.com/companyname][twitter]
-
-** Facebook**  
-[facebook.com/companyname][facebook]
-
-**Web**  
-[companydomain.com][homepage]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
