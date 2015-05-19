@@ -3,7 +3,7 @@
 ## Factsheet
 
 **Developer:**  
-alteus soft
+alteus soft<br />
 from Korea, Republic of
 
 **Founding date:**  
