@@ -51,8 +51,8 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 ## Team & Repeating Collaborator
 
-**Probably the founder's name goes here**  
-[Founder](https://link)
+**alteus**  
+Main Directing &
 
 **Another person's name**  
 [developer maybe](https://link)
