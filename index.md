@@ -49,25 +49,6 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
 
 
-## Team & Repeating Collaborator
-
-**Ju Jinho**  
-Main Directing & programming.
-
-**Suho Kang**  
-Character graphics.
-
-**DongYeup Shin**  
-UI graphics
-
-**GeonHo Lee**  
-Music and, sound.
-
-## Contact
-
-**E-mail**  
-[alteus@gmail.com][contact]
-
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
