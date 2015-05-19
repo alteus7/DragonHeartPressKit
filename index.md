@@ -6,7 +6,7 @@
 alteus soft
 
 **Founding date:**  
-January 1, 2015
+May 6, 2015
 
 **Website:**  
 [companydomain.com][homepage]
