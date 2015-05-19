@@ -9,7 +9,7 @@ Based in Korea, Republic of
 **Platform:**  
 iOS / Android
 
-**Platform:**  
+**Release:**  
 June, 2015
 
 **Press / Business contact:**  
