@@ -16,7 +16,7 @@ May 6, 2015
 iOS / Android
 
 **Release:**
-
+June, 2015
 
 
 ## Description
