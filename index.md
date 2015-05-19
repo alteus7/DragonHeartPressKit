@@ -60,8 +60,8 @@ Character graphics.
 **DongYeup Shin**  
 UI graphics
 
-**A fourth person**  
-[music, sound?](https://link)
+**GeonHo Lee**  
+Music and, sound.
 
 ## Contact
 
