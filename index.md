@@ -33,7 +33,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Features
 
-* [exampleproject][example_project]
+* 퍼즐게임.
+
 
 ## Videos
 
