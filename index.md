@@ -52,7 +52,7 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 ## Team & Repeating Collaborator
 
 **alteus**  
-Main Directing &
+Main Directing & programming.
 
 **Another person's name**  
 [developer maybe](https://link)
