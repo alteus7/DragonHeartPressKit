@@ -1,4 +1,4 @@
-# ![alteus soft](../../assets/images/headerDragonHeart.png)
+# ![alteus soft](../../assets/images/headerBlack.png)
 
 ## Factsheet
 
