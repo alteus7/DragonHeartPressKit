@@ -6,7 +6,7 @@
 alteus soft  
 Based in Korea, Republic of
 
-**Genre:**  
+**Category:**  
 Block puzzle,
 
 **Platform:**  
