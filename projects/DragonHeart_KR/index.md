@@ -56,7 +56,7 @@ download logo files as ** [.zip](../../assets/images/logoDragonHeart.zip "Logo &
 > * [Apple iOS][dnIos]
 > * [Google Android][dnAndroid]
 
-## Thanks You!
+## Thank You!
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
