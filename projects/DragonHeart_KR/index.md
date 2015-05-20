@@ -34,7 +34,7 @@ June, 2015
 
 ## Images
 
-download all screenshots & photos as ** [.zip (63 KB)](../../assets/images/images.zip "Images zip") **
+download all screenshots & photos as ** [.zip](../../assets/images/images.zip "Images zip") **
 
 [![image_01_name](../../assets/images/image_01.png)](../../assets/images/image_01.png)
 [![image_02_name](../../assets/images/image_02.png)](../../assets/images/image_02.png)
