@@ -1,4 +1,4 @@
-# ![alteus soft](assets/images/header.png)
+# ![alteus soft](../../assets/images/headerDragonHeart.png)
 
 ## Factsheet
 
@@ -20,6 +20,8 @@ June, 2015
 
 드래곤 하트는 같은 색의 블록을 모두 선택하면 없어지는 인디 퍼즐 게임입니다. 여기에 게임에 대한
  간략한 설명을 적습니다.
+
+
 
 ## History
 
