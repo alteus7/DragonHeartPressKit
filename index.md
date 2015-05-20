@@ -69,6 +69,9 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 [contact]: mailto:alteus@gmail.com
 
+[dnIos]: https://dragonheart.parseapp.com
+[dnAndroid]: https://dragonheart.parseapp.com
+
 <!--- Social -->
 
 [twitter]: https://twitter.com/companyname
