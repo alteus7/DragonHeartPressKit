@@ -57,13 +57,10 @@ download logo files as ** [.zip](../../assets/images/logoDragonHeart.zip "Logo &
 [![icon](../../assets/images/iconDragonHeart.png)](../../assets/images/iconDragonHeart.png "Icon")
 [![logo](../../assets/images/logoDragonHeart.png)](../../assets/images/logoDragonHeart.png "Logo")
 
-
 ## Download
 
-> * Apple iOS(http://link)
-> * Google Android(http://link)
-
-
+> * [Apple iOS](http://link)
+> * [Google Android](http://link)
 
 ## Thanks You!
 
