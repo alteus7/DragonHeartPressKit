@@ -60,6 +60,9 @@ download logo files as ** [.zip](../../assets/images/logoDragonHeart.zip "Logo &
 
 ## Download
 
+> * "Winner, XX awards." - *game name, December 13, 2013*
+> * "Nominee, YY awards." - *game name, December 13, 2013*
+
 [Apple iOS](https://link)
 
 [Google Android](https://link)
