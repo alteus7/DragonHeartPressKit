@@ -48,7 +48,7 @@ In app purchase
 주간 랭킹 시스템...
 
 ## History
-* **드래곤하트는 인디 게임입니다.**<br />
+
 유니티3d를 사용하여 제작,
 
 ## Images
