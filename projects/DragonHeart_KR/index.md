@@ -16,6 +16,10 @@ Android
 **Release:**  
 June, 2015
 
+**Release:**  
+Free to play,
+In app purchase
+
 **Press / Business contact:**
 [alteus@gmail.com][contact]
 
