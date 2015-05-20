@@ -6,12 +6,19 @@
 alteus soft  
 Based in Korea, Republic of
 
+**Category:**  
+Block puzzle
+
 **Platform:**  
 iOS
 Android
 
 **Release:**  
 June, 2015
+
+**Price:**  
+Free to play,
+In app purchase
 
 **Press / Business contact:**
 [alteus@gmail.com][contact]
