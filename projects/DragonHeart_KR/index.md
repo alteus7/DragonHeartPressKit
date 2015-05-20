@@ -16,7 +16,7 @@ Android
 **Release:**  
 June, 2015
 
-**Release:**  
+**Price:**  
 Free to play,
 In app purchase
 
