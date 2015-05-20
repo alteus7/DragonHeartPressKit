@@ -57,8 +57,8 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 ## Download
 
-> * [Apple iOS](http://link)
-> * [Google Android](http://link)
+> * [Apple iOS][dnIos]
+> * [Google Android][dnAndroid]
 
 ## Thank you!
 
