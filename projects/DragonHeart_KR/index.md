@@ -29,11 +29,6 @@ In app purchase
  간략한 설명을 적습니다.
 
 
-
-## History
-
-넥슨, 네오위즈, CCR등의 회사를 거쳐 alteus soft로 독립하여 제작한 첫번째 게임입니다...
-
 ## Features
 
 * 새로운 규칙의 블록 퍼즐 게임
