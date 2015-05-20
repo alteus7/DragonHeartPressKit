@@ -6,8 +6,8 @@
 alteus soft  
 Based in Korea, Republic of
 
-**Platform:**  
-Block puzzle, 
+**Genre:**  
+Block puzzle,
 
 **Platform:**  
 iOS
