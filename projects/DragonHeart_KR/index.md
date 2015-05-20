@@ -14,7 +14,7 @@ Block puzzle
 [Android][dnAndroid]
 
 **Release:**  
-June, 2015
+2015년 6월
 
 **Price:**  
 Free to play,  
