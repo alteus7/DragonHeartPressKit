@@ -10,7 +10,7 @@ Based in Korea, Republic of
 Block puzzle
 
 **Platform:**  
-iOS  
+iOS
 Android
 
 **Release:**  
