@@ -10,8 +10,8 @@ Based in Korea, Republic of
 Block puzzle
 
 **Platform:**  
-[iOS](http://link)  
-[Android](http://link)
+[iOS][dnIos]  
+[Android][dnAndroid]
 
 **Release:**  
 June, 2015
