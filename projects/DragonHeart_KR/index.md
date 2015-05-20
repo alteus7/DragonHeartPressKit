@@ -48,12 +48,6 @@ In app purchase
 친구들과 주단위로 점수를 경쟁합니다. 혼자 조용히 즐기고 싶은 사람들을 위해 싱글 모드도 제공됩니다.
 에너지 시스템은 적용하지 않을 계획입니다.
 
-## History
-
-드래곤하트는 유니티3d를 사용하여 제작한 인디 게임입니다.
-5 ~ 10년 경력의 개발자 4명이 모여 약 1년 동안 개발하였습니다.
-
-
 ## Images
 
 download all screenshots & photos as ** [.zip](../../assets/images/images.zip "Images zip") **
