@@ -58,7 +58,9 @@ download logo files as ** [.zip](../../assets/images/logoDragonHeart.zip "Logo &
 [![logo](../../assets/images/logoDragonHeart.png)](../../assets/images/logoDragonHeart.png "Logo")
 
 
-## Thank you!
+## Download
+
+
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
