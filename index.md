@@ -25,7 +25,7 @@ In app purchase
 
 ## Description
 
-DragonHeart is a game that, ...
+DragonHeart is an indie game with the objective of selecting all the same colored cubics.
 
 
 ## History
