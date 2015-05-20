@@ -61,7 +61,7 @@ download logo files as ** [.zip](../../assets/images/logoDragonHeart.zip "Logo &
 ## Download
 
 > * Apple iOS(http://link)
-> * "Nominee, YY awards." - *game name, December 13, 2013*
+> * Google Android(http://link)
 
 [Apple iOS](https://link)
 
