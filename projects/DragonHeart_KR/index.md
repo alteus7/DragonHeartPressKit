@@ -49,7 +49,7 @@ In app purchase
 
 ## History
 
-유니티3d를 사용하여 제작,
+드래곤하트는 유니티3d를 사용하여 제작,
 
 ## Images
 
