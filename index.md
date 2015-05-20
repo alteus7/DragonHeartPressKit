@@ -10,14 +10,14 @@ Based in Korea, Republic of
 Block puzzle
 
 **Platform:**  
-iOS  
+iOS
 Android
 
 **Release:**  
 June, 2015
 
 **Price:**  
-Free to play,  
+Free to play,   
 In app purchase
 
 **Press / Business contact:**
