@@ -45,7 +45,7 @@ download all screenshots & photos as ** [.zip (63 KB)](../../assets/images/image
 
 download logo files as ** [.zip (7 KB)](../../assets/images/logo.zip "Logo & Icon zip") **
 
-[![logo](../../assets/images/logo_dragonHeart_150520.png)](../../assets/images/logo_dragonHeart_150520.png "Logo")
+[![logo](../../assets/images/logoDragonHeart.png)](../../assets/images/logoDragonHeart.png "Logo")
 [![icon](../../assets/images/icon.png)](../../assets/images/icon.png "Icon")
 
 
