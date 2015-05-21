@@ -51,11 +51,11 @@ In app purchase
 
 download all screenshots & photos as ** [.zip](../../assets/images/images.zip "Images zip") **
 
-[![image_01_name](../../assets/images/imgTitle_1.png)](../../assets/images/imgTitle_1.png)
-[![image_02_name](../../assets/images/imgTitle_2.png)](../../assets/images/imgTitle_2.png)
-[![image_03_name](../../assets/images/imgGame_1.png)](../../assets/images/imgGame_1.png)
-[![image_04_name](../../assets/images/imgGame_2.png)](../../assets/images/imgGame_3.png)
-[![image_05_name](../../assets/images/imgGame_3.png)](../../assets/images/imgGame_3.png)
+[![image_01_title_1](../../assets/images/imgTitle_1.png)](../../assets/images/imgTitle_1.png)
+[![image_02_title_2](../../assets/images/imgTitle_2.png)](../../assets/images/imgTitle_2.png)
+[![image_03_game_1](../../assets/images/imgGame_1.png)](../../assets/images/imgGame_1.png)
+[![image_04_game_2](../../assets/images/imgGame_2.png)](../../assets/images/imgGame_3.png)
+[![image_05_game_3](../../assets/images/imgGame_3.png)](../../assets/images/imgGame_3.png)
 [![image_04_name](../../assets/images/imgGame_3.png)](../../assets/images/imgGame_3.png)
 
 ## Logo & Icon
