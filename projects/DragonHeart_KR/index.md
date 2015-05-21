@@ -62,6 +62,14 @@ download all screenshots & photos as ** [.zip](../../assets/images/images.zip "I
 [![imgGacha_1](assets/images/imgGacha_1.jpg)](assets/images/imgGacha_1.jpg)
 
 <a href="url"><img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgTitle_1.jpg" height="568" width="320" ></a>
+<a href="url"><img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgTitle_1.jpg" height="568" width="320" ></a>
+<a href="url"><img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgTitle_1.jpg" height="568" width="320" ></a>
+<a href="url"><img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgTitle_1.jpg" height="568" width="320" ></a>
+<a href="url"><img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgTitle_1.jpg" height="568" width="320" ></a>
+<a href="url"><img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgTitle_1.jpg" height="568" width="320" ></a>
+<a href="url"><img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgTitle_1.jpg" height="568" width="320" ></a>
+<a href="url"><img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgTitle_1.jpg" height="568" width="320" ></a>
+<a href="url"><img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgTitle_1.jpg" height="568" width="320" ></a>
 
 ## Logo & Icon
 
