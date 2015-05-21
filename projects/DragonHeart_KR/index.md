@@ -49,7 +49,7 @@ In app purchase
 
 ## Images
 
-download all screenshots & photos as ** [.zip](../../assets/images/images.zip "Images zip") **
+download all screenshots & all Characters as ** [.zip](../../assets/images/images.zip "Images zip") **
 
 [![imgTitle_1](../../assets/images/imgTitle_1.jpg)](../../assets/images/imgTitle_1.jpg)
 [![imgTitle_2](../../assets/images/imgTitle_2.jpg)](../../assets/images/imgTitle_2.jpg)
