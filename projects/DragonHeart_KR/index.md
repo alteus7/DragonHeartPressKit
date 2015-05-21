@@ -63,7 +63,7 @@ In app purchase
 
 ## Logo & Icon
 
-download logo files as ** [.zip](../../assets/images/logoDragonHeart.zip "Logo & Icon zip") **
+[download all screenshots & all characters as .zip](../../assets/images/logoDragonHeart.zip "Logo & Icon zip")
 
 [![icon](../../assets/images/iconDragonHeart.png)](../../assets/images/iconDragonHeart.png "Logo")
 [![logo](../../assets/images/logoDragonHeart.png)](../../assets/images/logoDragonHeart.png "Icon")
