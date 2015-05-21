@@ -51,14 +51,14 @@ In app purchase
 
 download all screenshots & all characters as ** [.zip](assets/images/images.zip "Images zip") **
 
-[![imgTitle_1](../../assets/images/imgTitle_1.jpg)](../../assets/images/imgTitle_1.jpg "Title")
-[![imgGame_2](../../assets/images/imgGame_2.jpg)](../../assets/images/imgGame_2.jpg "Game")
-[![imgRanking_1](../../assets/images/imgRanking_1.jpg)](../../assets/images/imgRanking_1.jpg "Ranking")
-[![imgStandby_1](../../assets/images/imgStandby_1.jpg)](../../assets/images/imgStandby_1.jpg "Standby")
-[![char_1101_Puss](../../assets/images/char_1101_Puss.png)](../../assets/images/char_1101_Puss.png "Puss")
-[![char_3001_Theodore](../../assets/images/char_3001_Theodore.png)](../../assets/images/char_3001_Theodore.png "Theodore")
-[![char_3006_Kirke](../../assets/images/char_3006_Kirke.png)](../../assets/images/char_3006_Kirke.png "Kirke")
-[![char_4107_Summanus](../../assets/images/char_4107_Summanus.png)](../../assets/images/char_4107_Summanus.png "Summanus")
+[![imgTitle_1](assets/images/imgTitle_1.jpg)](assets/images/imgTitle_1.jpg "Title")
+[![imgGame_2](assets/images/imgGame_2.jpg)](assets/images/imgGame_2.jpg "Game")
+[![imgRanking_1](assets/images/imgRanking_1.jpg)](assets/images/imgRanking_1.jpg "Ranking")
+[![imgStandby_1](assets/images/imgStandby_1.jpg)](assets/images/imgStandby_1.jpg "Standby")
+[![char_1101_Puss](assets/images/char_1101_Puss.png)](assets/images/char_1101_Puss.png "Puss")
+[![char_3001_Theodore](assets/images/char_3001_Theodore.png)](assets/images/char_3001_Theodore.png "Theodore")
+[![char_3006_Kirke](assets/images/char_3006_Kirke.png)](assets/images/char_3006_Kirke.png "Kirke")
+[![char_4107_Summanus](assets/images/char_4107_Summanus.png)](assets/images/char_4107_Summanus.png "Summanus")
 
 
 ## Logo & Icon
