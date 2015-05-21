@@ -51,7 +51,7 @@ In app purchase
 
 download all screenshots & photos as ** [.zip](../../assets/images/images.zip "Images zip") **
 
-[![imgTitle_1|width=100px](../../assets/images/imgTitle_1.jpg)](../../assets/images/imgTitle_1.jpg)
+[![imgTitle_1](../../assets/images/imgTitle_1.jpg)](../../assets/images/imgTitle_1.jpg)
 [![imgTitle_2](../../assets/images/imgTitle_2.jpg)](../../assets/images/imgTitle_2.jpg)
 [![imgGame_1](../../assets/images/imgGame_1.jpg)](../../assets/images/imgGame_1.jpg)
 [![imgGame_2](../../assets/images/imgGame_2.jpg)](../../assets/images/imgGame_2.jpg)
