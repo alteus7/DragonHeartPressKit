@@ -60,7 +60,6 @@ download all screenshots & all characters as ** [.zip](../../assets/images/image
 [![char_3006_Kirke](../../assets/images/char_3006_Kirke.png)](../../assets/images/char_3006_Kirke.png "Kirke")
 [![char_4107_Summanus](../../assets/images/char_4107_Summanus.png)](../../assets/images/char_4107_Summanus.png "Summanus")
 
-
 ## Logo & Icon
 
 download logo files as ** [.zip](../../assets/images/logoDragonHeart.zip "Logo & Icon zip") **
