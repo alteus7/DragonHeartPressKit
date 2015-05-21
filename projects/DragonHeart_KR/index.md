@@ -53,9 +53,9 @@ download all screenshots & photos as ** [.zip](../../assets/images/images.zip "I
 
 [![imgTitle_1](../../assets/images/imgTitle_1.jpg)](../../assets/images/imgTitle_1.jpg)
 [![imgTitle_2](../../assets/images/imgTitle_2.jpg)](../../assets/images/imgTitle_2.jpg)
-[![imgGame_1](../../assets/images/imgGame_1.jpg)](assets/images/imgGame_1.jpg)
-[![imgGame_2](../../assets/images/imgGame_2.jpg)](assets/images/imgGame_2.jpg)
-[![imgGame_3](../../assets/images/imgGame_3.jpg)](assets/images/imgGame_3.jpg)
+[![imgGame_1](../../assets/images/imgGame_1.jpg)](../../assets/images/imgGame_1.jpg)
+[![imgGame_2](../../assets/images/imgGame_2.jpg)](../../assets/images/imgGame_2.jpg)
+[![imgGame_3](../../assets/images/imgGame_3.jpg)](../../assets/images/imgGame_3.jpg)
 [![imgRanking_1](../../assets/images/imgRanking_1.jpg)](../../assets/images/imgRanking_1.jpg)
 [![imgStandby_1](../../assets/images/imgStandby_1.jpg)](../../assets/images/imgStandby_1.jpg)
 [![imgStandby_2](../../assets/images/imgStandby_2.jpg)](../../assets/images/imgStandby_2.jpg)
