@@ -56,7 +56,7 @@ download all screenshots & photos as ** [.zip](../../assets/images/images.zip "I
 [![image_03_game_1](../../assets/images/imgGame_1.png)](../../assets/images/imgGame_1.png)
 [![image_04_game_2](../../assets/images/imgGame_2.png)](../../assets/images/imgGame_3.png)
 [![image_05_game_3](../../assets/images/imgGame_3.png)](../../assets/images/imgGame_3.png)
-[![image_04_name](../../assets/images/imgRanking_1.png)](../../assets/images/imgRanking_1.png)
+[![image_04_ranking_1](../../assets/images/imgRanking_1.png)](../../assets/images/imgRanking_1.png)
 
 ## Logo & Icon
 
