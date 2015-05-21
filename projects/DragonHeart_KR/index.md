@@ -57,7 +57,7 @@ download all screenshots & all Characters as ** [.zip](../../assets/images/image
 [![imgStandby_1](../../assets/images/imgStandby_1.jpg)](../../assets/images/imgStandby_1.jpg)
 [![char_1101](../../assets/images/char_1101.png)](../../assets/images/char_1101.png)
 [![char_3001](../../assets/images/char_3001.png)](../../assets/images/char_3001.png)
-[![char_1101](../../assets/images/char_1101.png)](../../assets/images/char_1101.png)
+[![char_3006](../../assets/images/char_3006.png)](../../assets/images/char_3006.png)
 [![char_4107](../../assets/images/char_4107.png)](../../assets/images/char_4107.png)
 
 
