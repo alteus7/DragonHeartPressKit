@@ -51,15 +51,16 @@ In app purchase
 
 download all screenshots & photos as ** [.zip](assets/images/images.zip "Images zip") **
 
-[![imgTitle_1](assets/images/imgTitle_1.png)](assets/images/imgTitle_1.png)
-[![imgTitle_2](assets/images/imgTitle_2.png)](assets/images/imgTitle_2.png)
-[![imgGame_1](assets/images/imgGame_1.png)](assets/images/imgGame_1.png)
-[![imgGame_2](assets/images/imgGame_2.png)](assets/images/imgGame_3.png)
-[![imgGame_3](assets/images/imgGame_3.png)](assets/images/imgGame_3.png)
-[![imgRanking_1](assets/images/imgRanking_1.png)](assets/images/imgRanking_1.png)
-[![imgStandby_1](assets/images/imgStandby_1.png)](assets/images/imgStandby_1.png)
-[![imgStandby_2](assets/images/imgStandby_2.png)](assets/images/imgStandby_2.png)
-[![imgGacha_1](assets/images/imgGacha_1.png)](assets/images/imgGacha_1.png)
+[![imgTitle_1](assets/images/imgTitle_1.jpg)](assets/images/imgTitle_1.jpg)
+[![imgTitle_2](assets/images/imgTitle_2.jpg)](assets/images/imgTitle_2.jpg)
+[![imgGame_1](assets/images/imgGame_1.jpg)](assets/images/imgGame_1.jpg)
+[![imgGame_2](assets/images/imgGame_2.jpg)](assets/images/imgGame_3.jpg)
+[![imgGame_3](assets/images/imgGame_3.jpg)](assets/images/imgGame_3.jpg)
+[![imgRanking_1](assets/images/imgRanking_1.jpg)](assets/images/imgRanking_1.jpg)
+[![imgStandby_1](assets/images/imgStandby_1.jpg)](assets/images/imgStandby_1.jpg)
+[![imgStandby_2](assets/images/imgStandby_2.jpg)](assets/images/imgStandby_2.jpg)
+[![imgGacha_1](assets/images/imgGacha_1.jpg)](assets/images/imgGacha_1.jpg)
+
 
 ## Logo & Icon
 
