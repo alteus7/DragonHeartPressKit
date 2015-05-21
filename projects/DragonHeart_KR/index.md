@@ -55,7 +55,7 @@ download all screenshots & all Characters as ** [.zip](../../assets/images/image
 [![imgGame_2](../../assets/images/imgGame_2.jpg)](../../assets/images/imgGame_2.jpg)
 [![imgRanking_1](../../assets/images/imgRanking_1.jpg)](../../assets/images/imgRanking_1.jpg)
 [![imgStandby_1](../../assets/images/imgStandby_1.jpg)](../../assets/images/imgStandby_1.jpg)
-[![char_1](../../assets/images/imgStandby_1.jpg)](../../assets/images/imgStandby_1.jpg)
+[![char_1101](../../assets/images/imgStandby_1.jpg)](../../assets/images/imgStandby_1.jpg)
 
 
 ## Logo & Icon
