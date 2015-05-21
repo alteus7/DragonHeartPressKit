@@ -62,6 +62,11 @@ download all screenshots & photos as ** [.zip](../../assets/images/images.zip "I
 [![imgGacha_1](../../assets/images/imgGacha_1.jpg)](../../assets/images/imgGacha_1.jpg)
 
 <img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgTitle_1.jpg" width="320">
+<img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgTitle_2.jpg" width="320">
+<img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgGame_1.jpg" width="320">
+<img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgGame_2.jpg" width="320">
+<img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgGame_3.jpg" width="320">
+<img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgRanking_1.jpg" width="320">
 
 ## Logo & Icon
 
