@@ -58,7 +58,7 @@ download all screenshots & all Characters as ** [.zip](../../assets/images/image
 [![char_1101](../../assets/images/char_1101.png)](../../assets/images/char_1101.png)
 [![char_3001](../../assets/images/char_3001.png)](../../assets/images/char_3001.png)
 [![char_1101](../../assets/images/char_1101.png)](../../assets/images/char_1101.png)
-[![char_4107](../../assets/images/char_1101.png)](../../assets/images/char_1101.png)
+[![char_4107](../../assets/images/char_4107.png)](../../assets/images/char_4107.png)
 
 
 ## Logo & Icon
