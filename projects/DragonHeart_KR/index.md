@@ -57,8 +57,8 @@ download all screenshots & photos as ** [.zip](../../assets/images/images.zip "I
 [![image_04_game_2](../../assets/images/imgGame_2.png)](../../assets/images/imgGame_3.png)
 [![image_05_game_3](../../assets/images/imgGame_3.png)](../../assets/images/imgGame_3.png)
 [![image_04_ranking_1](../../assets/images/imgRanking_1.png)](../../assets/images/imgRanking_1.png)
-[![image_04_ranking_1](../../assets/images/imgRanking_1.png)](../../assets/images/imgRanking_1.png)
-[![image_04_ranking_1](../../assets/images/imgRanking_1.png)](../../assets/images/imgRanking_1.png)
+[![image_04_ranking_1](../../assets/images/imgStandby_1.png)](../../assets/images/imgStandby_1.png)
+[![image_04_ranking_1](../../assets/images/imgStandby_2.png)](../../assets/images/imgStandby_2.png)
 [![image_04_ranking_1](../../assets/images/imgRanking_1.png)](../../assets/images/imgRanking_1.png)
 [![image_04_ranking_1](../../assets/images/imgRanking_1.png)](../../assets/images/imgRanking_1.png)
 
