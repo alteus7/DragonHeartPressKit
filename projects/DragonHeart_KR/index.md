@@ -61,6 +61,8 @@ download all screenshots & photos as ** [.zip](../../assets/images/images.zip "I
 [![imgStandby_2](../../assets/images/imgStandby_2.jpg)](../../assets/images/imgStandby_2.jpg)
 [![imgGacha_1](../../assets/images/imgGacha_1.jpg)](../../assets/images/imgGacha_1.jpg)
 
+<img src="https://github.com/favicon.ico" width="48">
+
 ## Logo & Icon
 
 download logo files as ** [.zip](../../assets/images/logoDragonHeart.zip "Logo & Icon zip") **
