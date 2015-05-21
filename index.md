@@ -51,14 +51,14 @@ In app purchase
 
 download all screenshots & all characters as ** [.zip](assets/images/images.zip "Images zip") **
 
-[![imgTitle_1](../../assets/images/imgTitle_1.jpg)](../../assets/images/imgTitle_1.jpg)
-[![imgGame_2](../../assets/images/imgGame_2.jpg)](../../assets/images/imgGame_2.jpg)
-[![imgRanking_1](../../assets/images/imgRanking_1.jpg)](../../assets/images/imgRanking_1.jpg)
-[![imgStandby_1](../../assets/images/imgStandby_1.jpg)](../../assets/images/imgStandby_1.jpg)
-[![char_1101](../../assets/images/char_1101.png)](../../assets/images/char_1101.png)
-[![char_3001](../../assets/images/char_3001.png)](../../assets/images/char_3001.png)
-[![char_3006](../../assets/images/char_3006.png)](../../assets/images/char_3006.png)
-[![char_4107](../../assets/images/char_4107.png)](../../assets/images/char_4107.png)
+[![imgTitle_1](assets/images/imgTitle_1.jpg)](../../assets/images/imgTitle_1.jpg)
+[![imgGame_2](assets/images/imgGame_2.jpg)](../../assets/images/imgGame_2.jpg)
+[![imgRanking_1](assets/images/imgRanking_1.jpg)](../../assets/images/imgRanking_1.jpg)
+[![imgStandby_1](assets/images/imgStandby_1.jpg)](../../assets/images/imgStandby_1.jpg)
+[![char_1101](assets/images/char_1101.png)](../../assets/images/char_1101.png)
+[![char_3001](assets/images/char_3001.png)](../../assets/images/char_3001.png)
+[![char_3006](assets/images/char_3006.png)](../../assets/images/char_3006.png)
+[![char_4107](assets/images/char_4107.png)](../../assets/images/char_4107.png)
 
 
 ## Logo & Icon
