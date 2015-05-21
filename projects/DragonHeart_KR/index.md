@@ -51,10 +51,10 @@ In app purchase
 
 download all screenshots & all characters as ** [.zip](../../assets/images/images.zip "Images zip") **
 
-[![imgTitle_1](../../assets/images/imgTitle_1.jpg)](../../assets/images/imgTitle_1.jpg)
-[![imgGame_2](../../assets/images/imgGame_2.jpg)](../../assets/images/imgGame_2.jpg)
-[![imgRanking_1](../../assets/images/imgRanking_1.jpg)](../../assets/images/imgRanking_1.jpg)
-[![imgStandby_1](../../assets/images/imgStandby_1.jpg)](../../assets/images/imgStandby_1.jpg)
+[![imgTitle_1](../../assets/images/imgTitle_1.jpg)](../../assets/images/imgTitle_1.jpg "screenTitle")
+[![imgGame_2](../../assets/images/imgGame_2.jpg)](../../assets/images/imgGame_2.jpg "screenGame")
+[![imgRanking_1](../../assets/images/imgRanking_1.jpg)](../../assets/images/imgRanking_1.jpg "screenRanking")
+[![imgStandby_1](../../assets/images/imgStandby_1.jpg)](../../assets/images/imgStandby_1.jpg "screenStandby")
 [![char_1101_Puss](../../assets/images/char_1101_Puss.png)](../../assets/images/char_1101_Puss.png "Puss")
 [![char_3001_Theodore](../../assets/images/char_3001_Theodore.png)](../../assets/images/char_3001_Theodore.png "Theodore")
 [![char_3006_Kirke](../../assets/images/char_3006_Kirke.png)](../../assets/images/char_3006_Kirke.png "Kirke")
