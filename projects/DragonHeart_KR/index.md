@@ -55,10 +55,10 @@ download all screenshots & all characters as ** [.zip](../../assets/images/image
 [![imgGame_2](../../assets/images/imgGame_2.jpg)](../../assets/images/imgGame_2.jpg)
 [![imgRanking_1](../../assets/images/imgRanking_1.jpg)](../../assets/images/imgRanking_1.jpg)
 [![imgStandby_1](../../assets/images/imgStandby_1.jpg)](../../assets/images/imgStandby_1.jpg)
-[![char_1101_Puss](../../assets/images/char_1101.png)](../../assets/images/char_1101.png)
-[![char_3001_Theodore](../../assets/images/char_3001.png)](../../assets/images/char_3001.png)
-[![char_3006](../../assets/images/char_3006.png)](../../assets/images/char_3006.png)
-[![char_4107](../../assets/images/char_4107.png)](../../assets/images/char_4107.png)
+[![char_1101_Puss](../../assets/images/char_1101_Puss.png)](../../assets/images/char_1101_Puss.png)
+[![char_3001_Theodore](../../assets/images/char_3001_Theodore.png)](../../assets/images/char_3001_Theodore.png)
+[![char_3006_Kirke](../../assets/images/char_3006_Kirke.png)](../../assets/images/char_3006_Kirke.png)
+[![char_4107_Summanus](../../assets/images/char_4107_Summanus.png)](../../assets/images/char_4107_Summanus.png)
 
 
 ## Logo & Icon
