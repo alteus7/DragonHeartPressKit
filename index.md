@@ -60,8 +60,8 @@ download all screenshots & photos as ** [.zip](assets/images/images.zip "Images 
 
 download logo files as ** [.zip](assets/images/logoDragonHeart.zip "Logo & Icon zip") **
 
-[![logo](assets/images/iconDragonHeart.png)](assets/images/iconDragonHeart.png "Logo")
-[![icon](assets/images/logoDragonHeart.png)](assets/images/logoDragonHeart.png "Icon")
+[![logo](assets/images/iconDragonHeart.png)](assets/images/iconDragonHeart.png "Icon")
+[![icon](assets/images/logoDragonHeart.png)](assets/images/logoDragonHeart.png "Logo")
 
 ## Download
 
