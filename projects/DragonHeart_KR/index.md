@@ -59,8 +59,8 @@ download all screenshots & photos as ** [.zip](../../assets/images/images.zip "I
 [![image_04_ranking_1](../../assets/images/imgRanking_1.png)](../../assets/images/imgRanking_1.png)
 [![image_04_standby_1](../../assets/images/imgStandby_1.png)](../../assets/images/imgStandby_1.png)
 [![image_04_standby_2](../../assets/images/imgStandby_2.png)](../../assets/images/imgStandby_2.png)
-[![image_04_ranking_1](../../assets/images/imgRanking_1.png)](../../assets/images/imgRanking_1.png)
-[![image_04_ranking_1](../../assets/images/imgRanking_1.png)](../../assets/images/imgRanking_1.png)
+[![image_04_gacha_1](../../assets/images/imgRanking_1.png)](../../assets/images/imgRanking_1.png)
+[![image_04_gacha_2](../../assets/images/imgRanking_1.png)](../../assets/images/imgRanking_1.png)
 
 ## Logo & Icon
 
