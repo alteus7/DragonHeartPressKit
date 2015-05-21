@@ -61,7 +61,7 @@ download all screenshots & photos as ** [.zip](../../assets/images/images.zip "I
 [![imgStandby_2](../../assets/images/imgStandby_2.jpg)](../../assets/images/imgStandby_2.jpg)
 [![imgGacha_1](../../assets/images/imgGacha_1.jpg)](../../assets/images/imgGacha_1.jpg)
 
-<img src="https://github.com/favicon.ico" width="48">
+<img src="https://alteus7.github.io/DragonHeartPressKit/assets/images/imgTitle_1.jpg" width="320">
 
 ## Logo & Icon
 
