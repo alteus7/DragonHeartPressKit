@@ -79,8 +79,8 @@ download logo files as ** [.zip](../../assets/images/logoDragonHeart.zip "Logo &
 
 [contact]: mailto:alteus@gmail.com
 
-[dnIos]: https://dragonheart.parseapp.com
-[dnAndroid]: https://dragonheart.parseapp.com
+[dnIos]: https://itunes.apple.com/app/id891176655
+[dnAndroid]: https://play.google.com/store/apps/details?id=kr.alteus.DragonHeart
 
 <!--- Social -->
 
