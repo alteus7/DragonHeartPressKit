@@ -80,7 +80,7 @@ download logo files as ** [.zip](assets/images/logoDragonHeart.zip "Logo & Icon 
 [contact]: mailto:alteus@gmail.com
 
 [dnIos]: https://dragonheart.parseapp.com
-[dnAndroid]: https://dragonheart.parseapp.com
+[dnAndroid]: https://play.google.com/store/apps/details?id=kr.alteus.DragonHeart
 
 <!--- Social -->
 
