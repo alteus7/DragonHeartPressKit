@@ -55,7 +55,7 @@ In app purchase
 
 <br>
 
-게임 플레이 영상. [Youtube link](https://www.youtube.com/watch?v=dHthM5vA0OE "Play video on Youtube")
+게임 플레이 영상 [Youtube link](https://www.youtube.com/watch?v=dHthM5vA0OE "Play video on Youtube")
 <iframe src="//www.youtube.com/embed/dHthM5vA0OE" frameborder="0" allowfullscreen></iframe>
 
 ## Images
