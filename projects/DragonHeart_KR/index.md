@@ -55,7 +55,7 @@ We have a trailer and this is it. [And this is what we called the link](https://
 
 <br>
 
-This is some music from our games! [Yeah, you like it I think](https://www.youtube.com/watch?v=dHthM5vA0OE&feature=youtu.be "Motohiro Kawashima live")
+This is some music from our games! [Yeah, you like it I think](https://www.youtube.com/watch?v=dHthM5vA0OE&feature=youtu.be "Play video on Youtube")
 <iframe src="//www.youtube.com/embed/hxQAUADFCzw" frameborder="0" allowfullscreen></iframe>
 
 ## Images
