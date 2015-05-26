@@ -80,9 +80,10 @@ download logo files as ** [.zip](../../assets/images/logoDragonHeart.zip "Logo &
 
 ## Download
 
-> * **[Apple Appstore][dnIos]**
+> * [Apple Appstore][dnIos]
 
-> * **[Google Play Store][dnAndroid]**
+
+> * [Google Play Store][dnAndroid]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
