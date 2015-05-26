@@ -32,8 +32,8 @@ In app purchase
 ## Features
 
 * **새로운 방식의 블록 퍼즐 게임입니다.**  
-전통적인 3 match 방식에서 벗어나 포코팡의 Draw Line과 super collapse의 same color 방식이 뒤섞인 새로운 규칙입니다.
-쉽지만 어렵습니다. combo와 power, burst mode 등의 추가 규칙과 캐릭터 스킬들이 게임을 더 흥미롭게 만듭니다.
+쉽지만 어렵습니다. 전통적인 3 match 방식에서 벗어나 포코팡의 Draw Line과 super collapse의 same color 방식이 뒤섞인 새로운 규칙입니다.
+combo와 power, burst mode 등의 추가 규칙과 캐릭터 스킬들이 게임을 더 흥미롭게 만듭니다.
 
 * **캐릭터에 따라 게임의 플레이 방식이 달라집니다.**  
 대상인 Moff는 게임 중 얻은 골드에 비례해 최종 점수가 증가합니다.
