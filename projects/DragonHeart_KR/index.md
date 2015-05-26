@@ -49,13 +49,13 @@ In app purchase
 
 ## Videos
 
-Promotion trailer on Google play store & Apple app store. [Youtube link](https://www.youtube.com/watch?v=HSUTVksSGtI "Promotion Trailer on Youtube")  
+프로모션 영상 [Youtube link](https://www.youtube.com/watch?v=HSUTVksSGtI "Promotion Trailer on Youtube")  
 
 <iframe src="//www.youtube.com/embed/HSUTVksSGtI" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
-This is play video with Kirke. [Youtube link](https://www.youtube.com/watch?v=dHthM5vA0OE "Play video on Youtube")
+게임 플레이 영상. [Youtube link](https://www.youtube.com/watch?v=dHthM5vA0OE "Play video on Youtube")
 <iframe src="//www.youtube.com/embed/dHthM5vA0OE" frameborder="0" allowfullscreen></iframe>
 
 ## Images
