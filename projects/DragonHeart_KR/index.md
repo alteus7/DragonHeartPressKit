@@ -49,7 +49,7 @@ In app purchase
 
 ## Videos
 
-We have a trailer and this is it. [And this is what we called the link](https://www.youtube.com/watch?v=HSUTVksSGtI "Promotion Trailer on Youtube")  
+Promotion trailer on Google play store & Apple app store. [And this is what we called the link](https://www.youtube.com/watch?v=HSUTVksSGtI "Promotion Trailer on Youtube")  
 
 <iframe src="//www.youtube.com/embed/HSUTVksSGtI" frameborder="0" allowfullscreen></iframe>
 
