@@ -51,12 +51,12 @@ In app purchase
 
 We have a trailer and this is it. [And this is what we called the link](https://www.youtube.com/watch?v=HSUTVksSGtI "Promotion Trailer on Youtube")  
 
-<iframe src="//www.youtube.com/embed/WB0yAm6iXEw" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/HSUTVksSGtI" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
 This is some music from our games! [Yeah, you like it I think](https://www.youtube.com/watch?v=dHthM5vA0OE "Play video on Youtube")
-<iframe src="//www.youtube.com/embed/hxQAUADFCzw" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/dHthM5vA0OE" frameborder="0" allowfullscreen></iframe>
 
 ## Images
 
