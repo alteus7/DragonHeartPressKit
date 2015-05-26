@@ -47,6 +47,17 @@ combo와 power, burst mode 등의 추가 규칙과 캐릭터 스킬들이 게임
 * **페이스북과 싱글 모드를 지원합니다.**  
 친구들과 주간 단위로 점수를 경쟁합니다. 혼자 조용히 즐기고 싶은 사람들을 위해 싱글 모드도 제공됩니다.
 
+## Videos
+
+Promotion trailer on Google play store & Apple app store. [Youtube link](https://www.youtube.com/watch?v=HSUTVksSGtI "Promotion Trailer on Youtube")  
+
+<iframe src="//www.youtube.com/embed/HSUTVksSGtI" frameborder="0" allowfullscreen></iframe>
+
+<br>
+
+This is play video with Kirke. [Youtube link](https://www.youtube.com/watch?v=dHthM5vA0OE "Play video on Youtube")
+<iframe src="//www.youtube.com/embed/dHthM5vA0OE" frameborder="0" allowfullscreen></iframe>
+
 ## Images
 
 download all screenshots & all characters as ** [.zip](assets/images/images.zip "Images zip") **

@@ -55,7 +55,7 @@ Promotion trailer on Google play store & Apple app store. [Youtube link](https:/
 
 <br>
 
-This is some play video with Kirke. [Youtube link](https://www.youtube.com/watch?v=dHthM5vA0OE "Play video on Youtube")
+This is play video with Kirke. [Youtube link](https://www.youtube.com/watch?v=dHthM5vA0OE "Play video on Youtube")
 <iframe src="//www.youtube.com/embed/dHthM5vA0OE" frameborder="0" allowfullscreen></iframe>
 
 ## Images
