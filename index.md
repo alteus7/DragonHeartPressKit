@@ -47,7 +47,7 @@ Dragon Heart is a story of adventures that is looking for the ancient magic ston
 If you admire the skills of the other players, you and the player become friends, and also meet them through gate of
 
 * **Supports Facebook and single-mode.**  
-친구들과 주간 단위로 점수를 경쟁합니다. 혼자 조용히 즐기고 싶은 사람들을 위해 싱글 모드도 제공됩니다.
+Compete with your friends by weekly scores. Single mode is also available for those who want to enjoy the game alone.
 
 ## Videos
 
