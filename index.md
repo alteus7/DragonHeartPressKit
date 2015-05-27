@@ -44,9 +44,9 @@ The users will be replaced with new playing styles by the each character's skill
 
 * **The beautiful and unique graphics of the characters.**  
 Dragon Heart is a story of adventures that is looking for the ancient magic stone to the dragon heart for different reasons.
-If you admire the skills of the other players, you and the player become friends, and also meet them through gate of 
+If you admire the skills of the other players, you and the player become friends, and also meet them through gate of
 
-* **페이스북과 싱글 모드를 지원합니다.**  
+* **Supports Facebook and single-mode.**  
 친구들과 주간 단위로 점수를 경쟁합니다. 혼자 조용히 즐기고 싶은 사람들을 위해 싱글 모드도 제공됩니다.
 
 ## Videos
