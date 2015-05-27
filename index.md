@@ -43,8 +43,8 @@ Just like the Gladiator, Theodore, whenever you eliminate the 4th block, you wil
 The users will be replaced with new playing styles by the each character's skills.
 
 * **The beautiful and unique graphics of the characters.**  
-드래곤 하트는 저마다 다른 이유로 고대의 마법석-용의 심장-을 찾아 모험을 떠난 이들의 이야기입니다.
-이들은 플레이어의 실력에 감탄해 동료가 되거나, 이계로 통하는 차원문을 통해 만날 수 있습니다.
+Dragon Heart is a story of adventures that is looking for the ancient magic stone to the dragon heart for different reasons.
+If you admire the skills of the other players, you and the player become friends, and also meet them through
 
 * **페이스북과 싱글 모드를 지원합니다.**  
 친구들과 주간 단위로 점수를 경쟁합니다. 혼자 조용히 즐기고 싶은 사람들을 위해 싱글 모드도 제공됩니다.
