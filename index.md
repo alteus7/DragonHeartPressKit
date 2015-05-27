@@ -37,10 +37,9 @@ It is a game with the new rules which is combined with 'PokoPang‘s draw line',
 It can be easy and difficult at the same time.
 the combo and power, burst mode and other additional rules and character skills will make the game more interesting.
 
-* **캐릭터에 따라 게임의 플레이 방식이 달라집니다.**  
-대상인 Moff는 게임 중 얻은 골드에 비례해 최종 점수가 증가합니다.
-검투사 Theodore처럼 블록을 4번째 없앨 때마다 추가 점수를 얻는 스킬도 있습니다.
-플레이어는 각각의 캐릭터 스킬에 따라 플레이 스타일을 바꾸게 됩니다.
+* **The play of the game depends on the character.**  
+The final score will be depend on the proportion of the gold while playing the game. The final score will be increased due to the proportion of the gold which Moff will be obtained.
+Just like the Gladiator, Theodore, whenever you eliminate the 4th block, you will get the extra scores. The users will be replaced with new playing styles by the each character's skills.
 
 * **아름답고 독특한 그래픽의 캐릭터들,**  
 드래곤 하트는 저마다 다른 이유로 고대의 마법석-용의 심장-을 찾아 모험을 떠난 이들의 이야기입니다.
