@@ -38,7 +38,6 @@ It can be easy and difficult at the same time.
 the combo and power, burst mode and other additional rules and character skills will make the game more interesting.
 
 * **The play of the game depends on the character.**  
-The final score will be depend on the proportion of the gold while playing the game.
 The final score will be increased due to the proportion of the gold which Moff will be obtained.
 Just like the Gladiator, Theodore, whenever you eliminate the 4th block, you will get the extra scores.
 The users will be replaced with new playing styles by the each character's skills.
