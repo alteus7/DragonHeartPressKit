@@ -42,7 +42,7 @@ The final score will be increased due to the proportion of the gold which Moff w
 Just like the Gladiator, Theodore, whenever you eliminate the 4th block, you will get the extra scores.
 The users will be replaced with new playing styles by the each character's skills.
 
-* **아름답고 독특한 그래픽의 캐릭터들,**  
+* **The beautiful and unique graphics of the characters.**  
 드래곤 하트는 저마다 다른 이유로 고대의 마법석-용의 심장-을 찾아 모험을 떠난 이들의 이야기입니다.
 이들은 플레이어의 실력에 감탄해 동료가 되거나, 이계로 통하는 차원문을 통해 만날 수 있습니다.
 
