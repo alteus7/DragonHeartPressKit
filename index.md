@@ -31,9 +31,11 @@ It is an easy game to get the high score, but you are require to busily use your
 
 ## Features
 
-* **새로운 방식의 블록 퍼즐 게임입니다.**  
-쉽지만 어렵습니다. 전통적인 3 match 방식에서 벗어나 포코팡의 Draw Line과 super collapse의 same color 방식이 뒤섞인 새로운 규칙입니다.
-combo와 power, burst mode 등의 추가 규칙과 캐릭터 스킬들이 게임을 더 흥미롭게 만듭니다.
+* **This is a new style of block puzzle game.**  
+The rules are out of traditional 3 match style.
+It is a game with the new rules which is combined with 'PokoPang‘s draw line', and 'super collapse's same color'.
+It can be easy and difficult at the same time.
+the combo and power, burst mode and other additional rules and character skills will make the game more interesting.
 
 * **캐릭터에 따라 게임의 플레이 방식이 달라집니다.**  
 대상인 Moff는 게임 중 얻은 골드에 비례해 최종 점수가 증가합니다.
